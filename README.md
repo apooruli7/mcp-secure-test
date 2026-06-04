@@ -1,1 +1,0 @@
-# mcp-secure-test
